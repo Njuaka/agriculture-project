@@ -17,7 +17,7 @@ Monitoring and Flexibility: Log processes, handle errors, and provide options fo
 # Project Structure
 
 ├── data/                    # Input data files 
-├── main/                 # Generated reports and visualizations
+##├── main/                 # Generated reports and visualizations
 ├── pipeline/                # Python source code
 ├── R/                       # R scripts for alternative implementation
 ├── tests/                   # Unit tests for Python code
