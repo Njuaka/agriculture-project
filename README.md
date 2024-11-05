@@ -14,6 +14,16 @@ Automated Reports: Generate summary statistics, visualizations, and customizable
 Role-Based Reporting: Adapt report detail based on user roles (e.g., analyst, breeder).
 Monitoring and Flexibility: Log processes, handle errors, and provide options for scheduled monitoring.
 
+# Project Structure
+
+├── data/                    # Input data files 
+├── main/                 # Generated reports and visualizations
+├── pipeline/                # Python source code
+├── R/                       # R scripts for alternative implementation
+├── tests/                   # Unit tests for Python code
+├── README.md
+└── requirements.txt         # Python dependencies
+
 # Quick start
 Clone the repo
 install dependencies -- pip install -r requirements.txt
