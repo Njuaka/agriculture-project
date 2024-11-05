@@ -1,0 +1,8 @@
+README.md
+setup.py
+agri_analyser.egg-info/PKG-INFO
+agri_analyser.egg-info/SOURCES.txt
+agri_analyser.egg-info/dependency_links.txt
+agri_analyser.egg-info/entry_points.txt
+agri_analyser.egg-info/top_level.txt
+pipeline/__init__.py

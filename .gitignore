@@ -1,0 +1,7 @@
+# ignore the folders and its contents
+
+data/
+pipeline/data/
+pipeline/output/
+agri_analyser.egg-info/
+plant_analysis.ipynb/

@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: agri-analyser
+Version: 0.1.0
+Summary: A Python module for data reporting and visualisation
+Home-page:  
+Author: Melvin Njuaka
+Author-email: nnjuaka@yahoo.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+
+
+Change Log
+
+==================
+
+0.0.1 (01/09/2024)
+
+------------------
+
+- First Release
